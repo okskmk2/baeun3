@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'baeun3',
     'corsheaders',
+    'todo.apps.TodoConfig',
 ]
 
 MIDDLEWARE = [
